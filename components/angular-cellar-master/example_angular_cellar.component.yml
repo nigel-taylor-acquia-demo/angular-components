@@ -7,4 +7,4 @@ js:
   //cdnjs.cloudflare.com/ajax/libs/gsap/3.5.0/gsap.min.js: { type: external, minified: true, crossorigin: anonymous }
   //unpkg.com/babel-standalone@6/babel.min.js: { type: external, minified: true, crossorigin: anonymous }
 css:
-  example_react_checkbox.css: {}
+  css/styles.css: {}
