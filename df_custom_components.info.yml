@@ -1,6 +1,6 @@
-name: Wine Cellar
+name: Angular App Examples
 type: theme
-description: A base theme of Site Studio that is just an easy way to add custom components.
+description: A base theme of Site Studio that is just an easy way to add custom angular components.
 core_version_requirement: ^8.8.0 || ^9
 
 # Defines the base theme.
