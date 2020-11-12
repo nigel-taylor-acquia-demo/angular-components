@@ -9,3 +9,4 @@ js:
 css:
   src/assets/styles/styles.css: {}
   src/styles.css: {}
+  dist/assets/styles.css: {}
