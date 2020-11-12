@@ -1,5 +1,5 @@
 name: Example Angular Calculator App
-description: 'Example wine cellar component using Angular.'
+description: 'Example calculator component using Angular.'
 js:
   karma.conf.js: {attributes: { type: 'text/babel' }}
   e2e/protractor.conf.js: {attributes: { type: 'text/babel' }}

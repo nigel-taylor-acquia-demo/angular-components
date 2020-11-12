@@ -1,0 +1,6 @@
+name: Example Angular Hello World App
+description: 'Example hello world component using Angular.'
+js:
+css:
+  src/assets/styles/styles.css: {}
+  src/styles.css: {}
