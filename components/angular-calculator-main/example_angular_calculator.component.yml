@@ -3,28 +3,17 @@ description: 'Example calculator component using Angular.'
 js:
   karma.conf.js: {attributes: { type: 'text/babel' }}
   e2e/protractor.conf.js: {attributes: { type: 'text/babel' }}
-  dist/ngcalculator/main-es5.js: {}
-  dist/ngcalculator/main-es2015.js: {}
-  dist/ngcalculator/polyfills-es5.js: {}
-  dist/ngcalculator/polyfills-es2015.js: {}
-  dist/ngcalculator/runtime-es5.js: {}
-  dist/ngcalculator/runtime-es2015.js: {}
-  dist/ngcalculator/styles-es5.js: {}
-  dist/ngcalculator/styles-es2015.js: {}
-  dist/ngcalculator/vendor-es5.js: {}
-  dist/ngcalculator/vendor-es2015.js: {}
+  dist/ngcalculator/main-es5.js: {attributes: { type: 'text/babel' }}
+  dist/ngcalculator/main-es2015.js: {attributes: { type: 'text/babel' }}
+  dist/ngcalculator/polyfills-es5.js: {attributes: { type: 'text/babel' }}
+  dist/ngcalculator/polyfills-es2015.js: {attributes: { type: 'text/babel' }}
+  dist/ngcalculator/runtime-es5.js: {attributes: { type: 'text/babel' }}
+  dist/ngcalculator/runtime-es2015.js: {attributes: { type: 'text/babel' }}
+  dist/ngcalculator/styles-es5.js: {attributes: { type: 'text/babel' }}
+  dist/ngcalculator/styles-es2015.js: {attributes: { type: 'text/babel' }}
+  dist/ngcalculator/vendor-es5.js: {attributes: { type: 'text/babel' }}
+  dist/ngcalculator/vendor-es2015.js: {attributes: { type: 'text/babel' }}
 css:
   src/app/calculator/calculator.component.css: {}
   src/app/app.component.css: {}
   src/styles.css: {}
-dist:
-  dist/ngcalculator/main-es5.js: {}
-  dist/ngcalculator/main-es2015.js: {}
-  dist/ngcalculator/polyfills-es5.js: {}
-  dist/ngcalculator/polyfills-es2015.js: {}
-  dist/ngcalculator/runtime-es5.js: {}
-  dist/ngcalculator/runtime-es2015.js: {}
-  dist/ngcalculator/styles-es5.js: {}
-  dist/ngcalculator/styles-es2015.js: {}
-  dist/ngcalculator/vendor-es5.js: {}
-  dist/ngcalculator/vendor-es2015.js: {}

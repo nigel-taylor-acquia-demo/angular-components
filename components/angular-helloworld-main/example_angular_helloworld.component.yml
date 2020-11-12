@@ -1,11 +1,11 @@
 name: Example Angular Hello World App
 description: 'Example hello world component using Angular.'
 js:
-  dist/main.js: {}
-  dist/polyfills.js: {}
-  dist/runtime.js: {}
-  dist/styles.js: {}
-  dist/vendor.js: {}
+  dist/main.js: {attributes: { type: 'text/babel' }}
+  dist/polyfills.js: {attributes: { type: 'text/babel' }}
+  dist/runtime.js: {attributes: { type: 'text/babel' }}
+  dist/styles.js: {attributes: { type: 'text/babel' }}
+  dist/vendor.js: {attributes: { type: 'text/babel' }}
 css:
   src/assets/styles/styles.css: {}
   src/styles.css: {}
