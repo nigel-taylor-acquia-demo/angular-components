@@ -1,0 +1,9 @@
+name: Example Calculator App
+description: 'Example wine cellar component using Angular.'
+js:
+  karma.conf.js: {attributes: { type: 'text/babel' }}
+  e2e/protractor.conf.js: {attributes: { type: 'text/babel' }}
+css:
+  src/app/calculator/calculator.component.css: {}
+  src/app/app.component.css: {}
+  src/styles.css: {}
