@@ -1,4 +1,4 @@
-name: Example Calculator App
+name: Example Angular Calculator App
 description: 'Example wine cellar component using Angular.'
 js:
   karma.conf.js: {attributes: { type: 'text/babel' }}
