@@ -1,5 +1,5 @@
-name: Example React Checkbox
-description: 'Example checkbox component using React from a CDN.'
+name: Example Wine Cellar App
+description: 'Example wine cellar component using Angular.'
 js:
   js/services.js: {attributes: { type: 'text/babel' }}
   js/controllers.js: {attributes: { type: 'text/babel' }}
