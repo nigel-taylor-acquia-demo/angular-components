@@ -1,12 +1,10 @@
-name: Example Angular Hello World App
-description: 'Example hello world component using Angular.'
+name: Example Angular Hello World App v2
+description: 'Example hello world component using Angular v2.'
 js:
-  dist/main.js: {attributes: { type: 'text/babel' }}
-  dist/polyfills.js: {attributes: { type: 'text/babel' }}
-  dist/runtime.js: {attributes: { type: 'text/babel' }}
-  dist/styles.js: {attributes: { type: 'text/babel' }}
-  dist/vendor.js: {attributes: { type: 'text/babel' }}
+  main.js: {attributes: { type: 'text/babel' }}
+  polyfills.js: {attributes: { type: 'text/babel' }}
+  runtime.js: {attributes: { type: 'text/babel' }}
+  styles.js: {attributes: { type: 'text/babel' }}
+  vendor.js: {attributes: { type: 'text/babel' }}
 css:
-  src/assets/styles/styles.css: {}
-  src/styles.css: {}
-  dist/assets/styles/styles.css: {}
+  styles/styles.css: {}
