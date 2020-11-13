@@ -1,0 +1,13 @@
+name: Example Angular Calculator App V2
+description: 'Example calculator component using Angular v2.'
+js:
+  main-es5.js: {}
+  main-es2015.js: {}
+  polyfills-es5.js: {}
+  polyfills-es2015.js: {}
+  runtime-es5.js: {}
+  runtime-es2015.js: {}
+  styles-es5.js: {}
+  styles-es2015.js: {}
+  vendor-es5.js: {}
+  vendor-es2015.js: {}
