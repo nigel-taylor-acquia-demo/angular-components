@@ -1,5 +1,5 @@
-name: Example Angular Calculator App
-description: 'Example calculator component using Angular.'
+name: Example Angular Calculator App v3
+description: 'Example calculator component using Angular v3.'
 js:
   main-es5.js: {}
   main-es2015.js: {}
