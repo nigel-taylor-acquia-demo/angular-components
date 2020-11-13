@@ -1,0 +1,9 @@
+name: Example Angular Simple Button App
+description: 'Example Simple Button component using Angular.'
+js:
+  main.js: {}
+  polyfills.js: {}
+  runtime.js: {}
+  vendor.js: {}
+css:
+  styles.css: {}
