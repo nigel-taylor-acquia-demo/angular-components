@@ -183,7 +183,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/nigel.taylor/Sites/nigelsgit/angulardemo/angular-components/components/angular-helloworld-main/src/main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! /Users/nigel.taylor/Sites/nigelsgit/angulardemo/angular-components/df_custom_components/components/angular-helloworld-main/src/main.ts */"./src/main.ts");
 
 
 /***/ })
