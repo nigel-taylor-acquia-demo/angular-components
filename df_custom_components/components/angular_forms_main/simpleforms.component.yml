@@ -1,5 +1,5 @@
-name: Example Angular Simple Forms App v3
-description: 'Example Simple Forms component using Angular.'
+name: Example Angular Simple Form App v4
+description: 'Example Simple Form component using Angular.'
 js:
   main.js: {}
   polyfills.js: {}
