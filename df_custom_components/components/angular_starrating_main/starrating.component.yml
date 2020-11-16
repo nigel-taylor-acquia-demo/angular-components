@@ -1,0 +1,9 @@
+name: Example Angular Star Rating App
+description: 'Example Star Rating component using Angular.'
+js:
+  main.js: {}
+  polyfills.js: {}
+  runtime.js: {}
+  vendor.js: {}
+css:
+  styles.css: {}
