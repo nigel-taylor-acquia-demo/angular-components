@@ -5,6 +5,7 @@
   padding: 0;
   display: inline-block;
   
+  /*
   .star {
     padding: 1px;
     color: #ddd;
@@ -22,4 +23,5 @@
   &.readonly .star.filled {
     color: #666;
   }
+  */
 }
