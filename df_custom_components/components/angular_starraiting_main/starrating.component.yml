@@ -1,6 +1,0 @@
-name: Example Angular Star Rating App
-description: 'Example Star Rating component using Angular.'
-js:
-  main.js: {}
- css:
-  styles.css: {}
