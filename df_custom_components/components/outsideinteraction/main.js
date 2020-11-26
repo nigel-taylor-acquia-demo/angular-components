@@ -95,6 +95,7 @@ class AppComponent {
         this.birthday = formAttributes.getNamedItem('data-date').value;
         this.title = 'Greetings ' + this.greeting + ' ' + this.name + '!';
         if (document.getElementById(this.colorInputName) != null) {
+            this.outsideFieldColor = document.getElementById(this.colorInputName);
             this.color = this.outsideFieldColor.value;
             document.querySelector('#' + this.colorInputName).addEventListener('change', () => {
                 this.color = this.outsideFieldColor.value;
