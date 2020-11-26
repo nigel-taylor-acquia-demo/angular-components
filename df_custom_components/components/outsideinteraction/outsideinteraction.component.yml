@@ -1,0 +1,48 @@
+name: Angular Outside Interaction V3.6
+description: 'Example Angular outside interaction.'
+js:
+  main.js: {}
+  polyfills.js: {}
+  runtime.js: {}
+  vendor.js: {}
+css:
+  styles.css: {}
+form_configuration:
+  name:
+    type: textfield
+    title: 'Name'
+    default_value: 'Leonard McCoy'
+  colorinput:
+    type: textfield
+    title: 'Color input ID'
+    default_value: 'newcolor'
+  greeting:
+    type: select
+    title: 'Greeting'
+    options:
+      'Other': 'Some other title'
+      'Dr': 'Dr'
+      'Mr': 'Mr'
+      'Ms': 'Ms'
+      'Mrs': 'Mrs'
+    default_value: 'Dr'
+  active:
+    type: radio
+    title: 'Active'
+  interests:
+    type: checkboxes
+    title: 'Interests'
+    options:
+      'music': 'Music'
+      'art': 'Art'
+      'sports': 'Sports'
+      'games': 'Games'
+      'books': 'Books'
+  favcolor:
+    type: color
+    title: 'Favorite color'
+    default_value: '#cccff'
+  date:
+    type: date
+    title: 'Birthday'
+    default_value: '1969-01-02'
